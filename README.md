@@ -1,6 +1,6 @@
 # EXPERIÊNCIAS EXITOSAS NA NUTRIÇÃO
 
-<img align="center" width="200px" height="114px" src="https://brazcode.com/compartilhado/logo-cfn.png">
+<p align="center"><img align="center" width="200px" height="114px" src="https://brazcode.com/compartilhado/logo-cfn.png"></p>
 
 Landing Page desenvolvida no intuito de criar um espaço para que nutricionistas de todo o país demonstrem como a nossa profissão pode contribuir para melhorar a vida da população brasileira
 
