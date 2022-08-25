@@ -12,7 +12,7 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 > - Página de cadastro
 >   - Dados pessoais
 >   - Cadastro de Trabalho
-> - Página de moderação
-> - Página de resultados (interno, PDF e XLSX)
+> - Página de moderação (trabalhos postados)
+> - Página de resultados (para controle interno, PDF e XLSX)
 
 xxxxxx
