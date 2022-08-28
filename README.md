@@ -11,6 +11,7 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 > - Página inicial com informações sobre o projeto e um mapa dos Regionais;
 > - Página de cadastro
 >   - Dados pessoais
+>     - Dados pessoais
 >   - Cadastro de Trabalho
 > - Página de moderação (trabalhos postados)
 > - Página de resultados (para controle interno, PDF e XLSX)
