@@ -2,7 +2,13 @@
 
 <img align="" width="" height="" src="https://brazcode.com/compartilhado/logo-cfn-branco.png">
 
-<font color="green"> Some green text </font>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) com o propósito de criar um espaço para que nutricionistas de todo o país demonstrem como a a profissão pode contribuir para melhorar a vida da população brasileira.
 
