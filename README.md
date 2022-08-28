@@ -7,7 +7,7 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 **Mockup do Projeto: ⬇️ [Figma](https://www.figma.com/file/hHi9rscYGoCgDl9CDzrluS/CFN---Casos-de-Experi%C3%AAcias-Exitosas?node-id=0%3A1)**
 
 > Estrutura do sistema:
-> 
+> <font color="green"> Some green text </font>
 > - **[1] Página inicial com informações sobre o projeto e um mapa dos Regionais**
 > - **[2] Página de cadastro**
 >   - Dados pessoais
