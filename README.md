@@ -24,7 +24,16 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 >     - Fotos do trabalho (até cinco)
 >     - Termo de responsabilidade (será elaborado pela UJ e deverá ser marcado como "aceito" pelo profissional)
 >     
-> - Página de moderação (trabalhos postados)
-> - Página de resultados (para controle interno, PDF e XLSX)
+> - Página de moderação
+>   - (header) Números de trabalhos cadastrados
+>     - Total de trabalhos (cadastro)
+>     - Total de fotos
+>     - Total de Estados
+>     - Total de Municípios
+>     
+>   - Aprovação ou rejeição de trabalhos postados
+>   
+> - Página de resultados (para controle interno)
+>   - Função para exportar em PDF e XLSX
 
 xxxxxx
