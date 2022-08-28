@@ -11,8 +11,19 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 > - Página inicial com informações sobre o projeto e um mapa dos Regionais;
 > - Página de cadastro
 >   - Dados pessoais
->     - Dados pessoais
+>     - Nome completo
+>     - Número de registro no respectivo CRN
+>     - CPF
+>     - Estado onde realiza/realizou o trabalho
+>     - Município onde realiza/realizou o trabalho
+>     
 >   - Cadastro de Trabalho
+>     - Título do trabalho (até 40 caracteres)
+>     - Área da nutrição para a qual se enquadra o trabalho (são 5 áreas)
+>     - Relato/resumo do trabalho (1.700 caracteres)
+>     - Fotos do trabalho (até cinco)
+>     - Termo de responsabilidade (será elaborado pela UJ e deverá ser marcado como "aceito" pelo profissional)
+>     
 > - Página de moderação (trabalhos postados)
 > - Página de resultados (para controle interno, PDF e XLSX)
 
