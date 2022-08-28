@@ -8,7 +8,7 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 
 > Estrutura do sistema:
 > 
-> - Página inicial com informações sobre o projeto e um mapa dos Regionais;
+> - Página inicial com informações sobre o projeto e um mapa dos Regionais
 > - Página de cadastro
 >   - Dados pessoais
 >     - Nome completo
