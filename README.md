@@ -18,7 +18,7 @@ Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) c
 >     - Município onde realiza/realizou o trabalho
 >     
 >   - Cadastro de Trabalho
->     - Título do trabalho (até 40 caracteres)
+>     - Título do trabalho (até 70 caracteres)
 >     - Área da nutrição para a qual se enquadra o trabalho (são 5 áreas)
 >     - Relato/resumo do trabalho (1.700 caracteres)
 >     - Fotos do trabalho (até cinco)
