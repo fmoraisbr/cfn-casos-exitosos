@@ -10,8 +10,8 @@
 
 > Estrutura do sistema:
 > 
-> - **[1] Página inicial com informações sobre o projeto e um mapa dos Regionais**
-> - **[2] Página de cadastro**
+> - ***[1] Página inicial com informações sobre o projeto e um mapa dos Regionais***
+> - ***[2] Página de cadastro***
 >   - Dados pessoais
 >     - Nome completo
 >     - Número de registro no respectivo CRN
@@ -26,7 +26,7 @@
 >     - Fotos do trabalho (até cinco)
 >     - Termo de responsabilidade (será elaborado pela UJ e deverá ser marcado como "aceito" pelo profissional)
 >     
-> - **[3] Página de moderação**
+> - ***[3] Página de moderação***
 >   - (header) Números de trabalhos cadastrados
 >     - Total de trabalhos (cadastro)
 >     - Total de fotos
@@ -35,7 +35,7 @@
 >     
 >   - Aprovação ou rejeição de trabalhos postados
 >   
-> - **[4] Página de resultados (para controle interno)**
+> - ***[4] Página de resultados (para controle interno)***
 >   - Função para exportar em PDF e XLSX
 
 xxxxxx
