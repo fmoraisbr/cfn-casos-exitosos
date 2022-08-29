@@ -40,7 +40,8 @@
 
 <p align="center">
   <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
-</p>
+</p><br/>
 
-
-
+<p align="center">
+  <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/landing-experiencias-exitosas.png">
+</p><br/>
