@@ -38,6 +38,9 @@
 > - ***[4] Página de resultados (para controle interno)***
 >   - Função para exportar em PDF e XLSX
 
-<img align="center" width="" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
+<p align="center">
+  <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
+</p>
+
 
 
