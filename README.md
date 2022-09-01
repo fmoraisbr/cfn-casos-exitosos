@@ -55,9 +55,6 @@
     selectStates: ['sc'],
     callbacks: {
       click: (element, uf) => { alert(uf); },
-      /*mouseover: (element, uf) => {
-      document.querySelector("#any-").appendChild(document.createTextNode(uf + " "));
-      },*/
     }
   });
 </script>
