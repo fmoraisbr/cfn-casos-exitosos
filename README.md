@@ -4,7 +4,9 @@
   <img align="" width="" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/logo-sistema-branco.png">
 </p>
 
-### Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) com o propósito de criar um espaço para que nutricionistas de todo o país demonstrem como a profissão pode contribuir para melhorar a vida da população brasileira<br>
+### Landing Page desenvolvida a pedido da Comissão de Comunicação do CFN (CCom) com o propósito de criar um espaço para que nutricionistas de todo o país demonstrem como a profissão pode contribuir para melhorar a vida da população brasileira<br/>
+
+###### Subsídios de sistema:
 
 1. **Documentação: 🗒️ [Notion](https://fmoraisbr.notion.site/CFN-Casos-de-Experi-cias-Exitosas-1156f762f9c442e183368757f56a6155)**
 2. **Mockup do Projeto: 📐 [Figma](https://www.figma.com/file/hHi9rscYGoCgDl9CDzrluS/CFN---Casos-de-Experi%C3%AAcias-Exitosas?node-id=0%3A1)** 
