@@ -8,10 +8,10 @@
 
 #### Subsídios de sistema:
 
-1. **Documentação: 🗒️ [Notion](https://fmoraisbr.notion.site/CFN-Casos-de-Experi-cias-Exitosas-1156f762f9c442e183368757f56a6155)**
-2. **Mockup do Projeto: 📐 [Figma](https://www.figma.com/file/hHi9rscYGoCgDl9CDzrluS/CFN---Casos-de-Experi%C3%AAcias-Exitosas?node-id=0%3A1)** 
-3. **Mapa de Páginas: 📍 [Xmind](https://xmind.works/#/share/y403m5Tl)**
-4. **Landing Page: 🌐 [Host](http://cfnutri.online/landing/experiencias-exitosas/)**
+1. 🗒️ **Documentação: [Notion](https://fmoraisbr.notion.site/CFN-Casos-de-Experi-cias-Exitosas-1156f762f9c442e183368757f56a6155)**
+2. 📐 **Mockup do Projeto: [Figma](https://www.figma.com/file/hHi9rscYGoCgDl9CDzrluS/CFN---Casos-de-Experi%C3%AAcias-Exitosas?node-id=0%3A1)** 
+3. 📍 **Mapa de Páginas: [Xmind](https://xmind.works/#/share/y403m5Tl)**
+4. 🌐 **Landing Page: [Host](http://cfnutri.online/landing/experiencias-exitosas/)**
 
 <br/>
 
