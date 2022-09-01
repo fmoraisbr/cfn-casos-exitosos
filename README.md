@@ -39,10 +39,33 @@
 > - ***[4] Página de resultados (para controle interno)***
 >   - Função para exportar em PDF e XLSX
 
-<p align="center">
+<br><p align="center">
   <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
 </p><br/>
 
-<p align="center">
+### Implementação do mapa
+
+~~~javascript
+<div id="any-"></div>
+<div style="max-width: 100%;">
+  <div id="br_mine"></div>
+</div>
+
+<script src="assets/js/maparegionais.js"></script>
+
+<script>
+  BrMap.Draw({
+    wrapper: '#br_mine',
+    selectStates: ['sc'],
+    callbacks: {
+      click: (element, uf) => { alert(uf); },
+    }
+  });
+</script>
+~~~
+
+<center><img src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/mapa.gif"></center>
+
+<br><p align="center">
   <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/landing-experiencias-exitosas.png">
 </p><br/>
