@@ -60,6 +60,8 @@
 </script>
 ~~~
 
+<center><img src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/mapa.gif"></center>
+
 <p align="center">
   <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
 </p><br/>
