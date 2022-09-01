@@ -46,3 +46,25 @@
 <p align="center">
   <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/landing-experiencias-exitosas.png">
 </p><br/>
+
+```
+<div id="any-"></div>
+            <div style="max-width: 100%;">
+              <div id="br_mine"></div>
+            </div>
+
+            <script src="assets/js/maparegionais.js"></script>
+
+            <script>
+              BrMap.Draw({
+                wrapper: '#br_mine',
+                selectStates: ['sc'],
+                callbacks: {
+                  click: (element, uf) => { alert(uf); },
+                  /*mouseover: (element, uf) => {
+                    document.querySelector("#any-").appendChild(document.createTextNode(uf + " "));
+                  },*/
+                }
+              });
+            </script>
+```
