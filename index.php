@@ -12,70 +12,19 @@
 
 -->
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<?php
 
-  <title>Experiências Exitosas na Nutrição - CFN</title>
+include 'assets/inc/head.php';
 
-  <meta
-    content="Este é o espaço para que nutricionistas de todo o país demonstrem como a nossa profissão pode contribuir para melhorar a vida da população brasileira"
-    name="description">
-
-  <meta content="CFN, Conselho Federal de Nutricionistas, Nutrição, Nutricionistas" name="keywords">
-
-  <meta property="og:title" content="Experiências Exitosas na Nutrição - CFN">
-  <meta property="og:site_name" content="Experiências Exitosas na Nutrição - CFN">
-  <meta property="og:url" content="https://cfnutri.online/landing/experiencias-exitosas">
-  <meta property="og:description" content="Este é o espaço para que nutricionistas de todo o país demonstrem como a nossa
-    profissão pode contribuir para melhorar a vida da população brasileira">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="http://cfnutri.online/landing/experiencias-exitosas/assets/img/about.jpg">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-    rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-</head>
+?>
 
 <body>
 
-  <!-- ======= START Header ======= -->
-  <header id="header" class="header fixed-top">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+  <?php
 
-      <a href="index.html" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" alt="">
-        <!-- <span>CFN</span> -->
-      </a>
+  include 'assets/inc/header.php';
 
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
-          <li><a class="nav-link scrollto" href="#mapa">Resultados</a></li>
-          <li><a class="nav-link scrollto" href="#footer">Cadastrar trabalho</a></li>
-          <li><a class="getstarted scrollto" href="#"><i class="bi bi-lock-fill"></i>‎ Administrativo</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-    </div>
-  </header><!-- END Header -->
+  ?>
 
   <!-- ======= Primeira Section - Call-to-action ======= -->
   <section id="home" class="hero d-flex align-items-center">
@@ -89,8 +38,7 @@
           </h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
-              <a href="#"
-                class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+              <a href="#" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                 <span>Cadastrar trabalho</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
@@ -129,8 +77,7 @@
                 Abaixo ha um mapa dos trabalhos registrados por Regional. Clique e conheça os trabalhos publicados!
               </p>
               <div class="text-center text-lg-start">
-                <a href="#"
-                  class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                   <span>Conhecer trabalhos</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
@@ -204,43 +151,32 @@
             <!-- <span class="post-date">Instruções</span> -->
             <h3 class="post-title">Clique no cor correspondente ao Conselho Regional para ver os resultados:</h3><br />
 
-            <button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #ff3ce2; border-color: #fff;"></button> CRN-1: DF, GO, MT, TO -
+            <button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #ff3ce2; border-color: #fff;"></button> CRN-1: DF, GO, MT, TO -
             Sede:
             Brasília-DF
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #b724ff; border-color: #fff;"></button> CRN-2: RS – Sede: Porto
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #b724ff; border-color: #fff;"></button> CRN-2: RS – Sede: Porto
             Alegre-RS
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #ffc200; border-color: #fff;"></button> CRN-3: SP e MS – Sede: São
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #ffc200; border-color: #fff;"></button> CRN-3: SP e MS – Sede: São
             Paulo-SP
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #b4ff00; border-color: #fff;"></button> CRN-4: ES e RJ – Sede: Rio
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #b4ff00; border-color: #fff;"></button> CRN-4: ES e RJ – Sede: Rio
             de
             Janeiro-RJ
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #00efcb; border-color: #fff;"></button> CRN-5: BA e SE – Sede:
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #00efcb; border-color: #fff;"></button> CRN-5: BA e SE – Sede:
             Salvador-BA
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #ff7b00; border-color: #fff;"></button> CRN-6: AL, PB, PE, RN –
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #ff7b00; border-color: #fff;"></button> CRN-6: AL, PB, PE, RN –
             Sede:
             Recife-PE
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #00c600; border-color: #fff;"></button> CRN-7: AC, AM, AP, PA, RO,
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #00c600; border-color: #fff;"></button> CRN-7: AC, AM, AP, PA, RO,
             RR –
             Sede:
             Belém-PA
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #009af8; border-color: #fff;"></button> CRN-8: PR – Sede:
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #009af8; border-color: #fff;"></button> CRN-8: PR – Sede:
             Curitiba-PR
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #006600; border-color: #fff;"></button> CRN-9: MG – Sede: Belo
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #006600; border-color: #fff;"></button> CRN-9: MG – Sede: Belo
             Horizonte-MG
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #ff3100; border-color: #fff;"></button> CRN-10: SC – sede:
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #ff3100; border-color: #fff;"></button> CRN-10: SC – sede:
             Florianópolis-SC
-            <br /><button type="button" class="btn btn-primary btn-square-md"
-              style="color: #fff; background-color: #0044f7; border-color: #fff;"></button> CRN-11: CE, MA, PI – sede:
+            <br /><button type="button" class="btn btn-primary btn-square-md" style="color: #fff; background-color: #0044f7; border-color: #fff;"></button> CRN-11: CE, MA, PI – sede:
             Fortaleza-CE
 
           </div>
@@ -262,7 +198,9 @@
                 wrapper: '#br_mine',
                 selectStates: ['sc'],
                 callbacks: {
-                  click: (element, uf) => { alert(uf); },
+                  click: (element, uf) => {
+                    alert(uf);
+                  },
                   /*mouseover: (element, uf) => {
                     document.querySelector("#any-").appendChild(document.createTextNode(uf + " "));
                   },*/
@@ -357,8 +295,7 @@
               <div class="post-img"><img src="assets/img/blog-1.jpg" class="img-fluid" alt=""></div>
               <span class="post-date">19 de agosto</span>
               <h3 class="post-title">Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit</h3>
-              <a href="#" class="readmore stretched-link mt-auto"><span>Leia mais</span><i
-                  class="bi bi-arrow-right"></i></a>
+              <a href="#" class="readmore stretched-link mt-auto"><span>Leia mais</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -367,8 +304,7 @@
               <div class="post-img"><img src="assets/img/blog-2.jpg" class="img-fluid" alt=""></div>
               <span class="post-date">21 de agosto</span>
               <h3 class="post-title">Et repellendus molestiae qui est sed omnis voluptates magnam</h3>
-              <a href="#" class="readmore stretched-link mt-auto"><span>Leia mais</span><i
-                  class="bi bi-arrow-right"></i></a>
+              <a href="#" class="readmore stretched-link mt-auto"><span>Leia mais</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -377,8 +313,7 @@
               <div class="post-img"><img src="assets/img/blog-3.jpg" class="img-fluid" alt=""></div>
               <span class="post-date">25 de agosto</span>
               <h3 class="post-title">Quia assumenda est et veritatis aut quae</h3>
-              <a href="#" class="readmore stretched-link mt-auto"><span>Leia mais</span><i
-                  class="bi bi-arrow-right"></i></a>
+              <a href="#" class="readmore stretched-link mt-auto"><span>Leia mais</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -390,101 +325,13 @@
 
   </main><!-- END #main -->
 
-  <!-- ======= START Section - Footer ======= -->
-  <footer id="footer" class="footer">
+  <?php
 
-    <div class="footer-newsletter">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-12 text-center">
+  include 'assets/inc/footer.php';
 
-            <header class="section-header">
-              <p>CADASTRE O SEU TRABALHO AQUI</p><br />
-              <h4 class="post-title" style="font-weight: 500;">Clique no botão abaixo e siga as instruções ⤵️</h4>
-            </header>
+  ?>
 
-          </div>
-          <div class="col-lg-6 d-flex justify-content-center">
-            <a href="" class="button-3d">REGISTRAR AGORA</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row gy-4">
-          <div class="col-lg-4 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
-              <img src="assets/img/logo.png" alt="">
-
-            </a>
-            <p>
-              O Conselho Federal de Nutricionistas (CFN) foi criado pela Lei nº. 6.583, de 20 de outubro de 1978, e
-              regulamentado pelo Decreto nº. 84.444, de 30 de janeiro de 1980. A Lei nº. 8.234, de 17 de setembro de
-              1991, substituiu a de número 5.276.
-            </p>
-            <div class="social-links mt-3">
-
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-youtube"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-6 footer-links">
-            <!-- <h4>LINKS</h4>
-            <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#"></a></li>
-            </ul> -->
-            <!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/9Q7H15XdGDc?controls=0"
-              title="YouTube video player" frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe> -->
-            <img src="assets/img/Logo-Sistema CFN CRN.png" alt="" class="img-fluid">
-          </div>
-
-          <!-- <div class="col-lg-2 col-6 footer-links">
-            <h4>LINKS</h4>
-            <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#"></a></li>
-            </ul>
-          </div> -->
-
-          <div class="col-lg-4 col-md-12 footer-contact text-center text-md-start">
-            <h4>Entre em contato</h4>
-            <p>
-              SRTVS Q. 701 Bl. II sala 301
-              Centro Empresarial<br>
-              Assis Chateaubriand<br>
-              Brasília-DF - CEP 70.340-906
-              <br><br>
-              <strong>Fone:</strong> (61) 3225 6027<br>
-              <strong>E-mail:</strong> contato@cfn.org.br<br>
-            </p>
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>CFN - Conselho Federal de Nutricionistas</span></strong>. Todos os Direitos
-        Reservados.
-      </div>
-      <div class="credits">
-        Desenvolvido pela 🍏 <a href="https://www.cfn.org.br/" target="_blank">Unidade de Imprensa e Comunicação
-          (UIC)</a>
-      </div>
-    </div>
-  </footer><!-- END Section - Footer -->
-
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a><!-- Botão ir ao topo -->
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a><!-- Botão ir ao topo -->
 
   <!-- Vendor JS - Arquivos -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
